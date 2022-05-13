@@ -2,7 +2,7 @@
 
 ### **Olá,**
 
-Sou o Rafael, sou desenvolvedor full-stack, em contínuo aprendizado, me aprofundando no desenvolvimento front-end, fortalecendo a base a html, css e javascript, bem como em frameworks como ReactJS e React Native! Também sigo estudando node.js.
+Sou o Rafael, desenvolvedor full-stack, em contínuo aprendizado, me aprofundando no desenvolvimento front-end, fortalecendo a base a html, css e javascript, bem como em frameworks como ReactJS e React Native! Também sigo estudando node.js.
 Tenho experiência no desenvolvimento de aplicações web, atuando principalmente como front-end, porém já trabalhei como full-stack!
 
 Minhas principas habilidades técnicas:

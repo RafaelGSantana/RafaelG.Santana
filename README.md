@@ -2,8 +2,7 @@
 
 ### **Olá,**
 
-Sou o Rafael, desenvolvedor front-end, em contínuo aprendizado.
-Tenho experiência no desenvolvimento de aplicações web, atuando principalmente como front-end, porém já trabalhei como full-stack!
+Sou o Rafael, desenvolvedor em contínuo aprendizado.
 
 Minhas principas habilidades técnicas:
 
